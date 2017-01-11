@@ -10,4 +10,5 @@ If you open the [homepage](http://localhost:8080) of the application, you will f
 ## Have fun
 If you're having some issues running the application, use the Github issues on this repository
 
-
+## If you're just curious
+The application can be viewed online [here](https://junior-petstore.herokuapp.com/)
